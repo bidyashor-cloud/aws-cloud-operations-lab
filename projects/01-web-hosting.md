@@ -10,7 +10,7 @@ I will keep adding new projects here as I complete them.
 ## Completed Projects
 
 1. Static Website Hosting – S3, CloudFront, Route 53  
-   Repository: aws-static-website-cloudfront  
+   Repository: aws-static-website-cloudfront-  
 
 ---
 
