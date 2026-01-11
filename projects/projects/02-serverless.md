@@ -1,43 +1,58 @@
-2. Serverless Application & Modern Web Hosting
+# Serverless Application & Modern Web Hosting
 
-Project 1: Serverless Static Website  
-Use S3, CloudFront, and Lambda@Edge for global performance.
+This file tracks my progress in building serverless and modern web
+architectures on AWS.
 
-Project 2: Multi-Tenant SaaS Application  
-Use Cognito, API Gateway, and RDS for a multi-tenant SaaS solution.
+I will keep adding new projects here as I complete them.
 
-Project 3: Progressive Web App (PWA) Hosting  
-Deploy a React or Vue.js PWA on AWS Amplify.
+---
 
-Project 4: Jamstack Site with AWS  
-Use AWS Amplify, Headless CMS, and S3 for a Jamstack website.
+## Completed Projects
 
-Project 5: AWS App Runner Deployment  
-Deploy a containerized web application with AWS App Runner.
+(No projects completed yet)
 
-Project 6: Serverless API with Lambda & API Gateway  
-Build a RESTful API using Lambda.
+---
 
-Project 7: GraphQL API with AWS AppSync  
-Deploy a GraphQL backend using DynamoDB.
+## Planned Projects
 
-Project 8: Serverless Chatbot  
-Build an AI-powered chatbot with AWS Lex & Lambda.
+1. Serverless Static Website – S3, CloudFront, Lambda@Edge  
+   Repository: aws-serverless-static-site  
 
-Project 9: Event-Driven Microservices  
-Use SNS & SQS for asynchronous microservices communication.
+2. Multi-Tenant SaaS Application – Cognito, API Gateway, RDS  
+   Repository: aws-saas-cognito-rds  
 
-Project 10: URL Shortener  
-Lambda-based URL shortener using DynamoDB.
+3. Progressive Web App (PWA) Hosting – AWS Amplify  
+   Repository: aws-amplify-pwa  
 
-Project 11: Serverless Expense Tracker  
-Lambda, DynamoDB, and API Gateway.
+4. Jamstack Website – Amplify, Headless CMS, S3  
+   Repository: aws-jamstack-site  
 
-Project 12: Serverless Image Resizer  
-Resize images automatically using S3 & Lambda.
+5. AWS App Runner Web Application  
+   Repository: aws-app-runner-app  
 
-Project 13: Real-time Polling App  
-WebSockets with API Gateway and DynamoDB.
+6. Serverless API – Lambda & API Gateway  
+   Repository: aws-serverless-api  
 
-Project 14: Serverless Sentiment Analysis  
-Analyze tweets using AWS Comprehend and DynamoDB.
+7. GraphQL API – AWS AppSync & DynamoDB  
+   Repository: aws-appsync-graphql  
+
+8. Serverless Chatbot – AWS Lex & Lambda  
+   Repository: aws-lex-chatbot  
+
+9. Event-Driven Microservices – SNS & SQS  
+   Repository: aws-event-driven-microservices  
+
+10. URL Shortener – Lambda & DynamoDB  
+    Repository: aws-url-shortener  
+
+11. Serverless Expense Tracker  
+    Repository: aws-expense-tracker  
+
+12. Serverless Image Resizer – S3 & Lambda  
+    Repository: aws-s3-lambda-image-resizer  
+
+13. Real-Time Polling Application  
+    Repository: aws-realtime-polling  
+
+14. Serverless Sentiment Analysis  
+    Repository: aws-sentiment-analysis  
