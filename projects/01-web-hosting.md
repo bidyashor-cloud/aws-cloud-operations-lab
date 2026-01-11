@@ -22,7 +22,8 @@ I will keep adding new projects here as I complete them.
    Repository: [aws-nlb-autoscaling](https://github.com/bidyashor-cloud/aws-nlb-autoscaling) 
 
 6. Multi-Tier Web Application – VPC, ALB, EC2, RDS  
-   Repository: aws-multi-tier-webapp  
+   Repository: [aws-multi-tier-webapp](https://github.com/bidyashor-cloud/aws-multi-tier-webapp) 
+
 ---
 
 ## Planned Projects
