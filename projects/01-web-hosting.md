@@ -21,7 +21,7 @@ I will keep adding new projects here as I complete them.
    Repository: aws-wordpress-lightsail  
 
 3. EC2-based Web Server (Apache / Nginx)  
-   Repository: aws-ec2-webserver  
+   Repository: [aws-ec2-webserver](https://github.com/bidyashor-cloud/aws-ec2-webserver)
 
 4. Scalable Web App – ALB + Auto Scaling  
    Repository: aws-alb-autoscaling  
