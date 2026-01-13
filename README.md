@@ -22,21 +22,25 @@ production systems.
 
 ---
 
-## How this repository is structured
+## Project Categories
 
-This repository contains index files that list my projects in order of learning
+This is a structure of repository contains index files that list my projects in order of learning
 and complexity.
 
-Each file represents a domain of AWS, such as:
+1. [Web Hosting & Deployment](projects/01-web-hosting.md)  
+2. [Serverless & Modern Web Hosting](projects/02-serverless.md)  
+3. [Infrastructure as Code & Automation](projects/03-iac-automation.md)  
+4. [Security & IAM](projects/04-security-iam.md)  
+5. [CI/CD](projects/05-ci-cd.md)  
+6. [DevOps](projects/06-devops.md)  
+7. [Databases & Storage](projects/07-databases-storage.md)  
+8. [Monitoring & Logging](projects/08-monitoring-logging.md)  
+9. [Networking & Connectivity](projects/09-networking.md)  
+10. [Data Processing & Analytics](projects/10-data-analytics.md)  
+11. [AI/ML & IoT](projects/11-ai-ml-iot.md)  
+12. [Disaster Recovery & Backup](projects/12-disaster-recovery.md)  
 
-- Web Hosting & Deployment  
-- Serverless & Modern Applications  
-- Infrastructure as Code  
-- Security & IAM  
-- CI/CD & DevOps  
-- Databases, Monitoring, and Networking  
-
-Each project listed in those files links to its own GitHub repository.
+Each folder contains detailed project documentation and architecture steps.
 
 ---
 
