@@ -13,12 +13,11 @@ I will keep adding new projects here as I complete them.
 1. Terraform AWS Infrastructure – VPC, EC2, RDS    
    Repository: [aws-terraform-infra](https://github.com/bidyashor-cloud/aws-terraform-infra)
 
+2. CloudFormation Infrastructure Deployment  
+   Repository: [aws-cloudformation-infra](https://github.com/bidyashor-cloud/aws-cloudformation-infra)
 ---
 
 ## Planned Projects
-
-2. CloudFormation Infrastructure Deployment  
-   Repository: aws-cloudformation-infra  
 
 3. AWS CDK Infrastructure  
    Repository: aws-cdk-infrastructure  
