@@ -7,7 +7,6 @@ This file tracks my AWS security and identity management projects.
 ## Completed Projects
 
 1. IAM Role & Policy Management  
-   Repository: aws-iam-security  
    Repository: [aws-iam-security](https://github.com/bidyashor-cloud/aws-iam-security)
 
 ---
